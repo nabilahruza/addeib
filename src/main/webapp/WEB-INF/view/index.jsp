@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-    <title>${title}</title>
+    <title>SCM</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="resources/css/bootstrap.min.css" rel="stylesheet">
@@ -46,7 +46,7 @@
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="nav navbar-nav">
                     <li class="active">
-                        <a href="#">Home</a>
+                        <a href="www.ump.edu.my">Home</a>
                     </li> 
                 </ul>
 
@@ -88,6 +88,7 @@
 						<button type="button" class="btn btn-default">Resource</button>
 						<button type="button" class="btn btn-default">Envision</button>
 						<button type="button" class="btn btn-default">Niche</button>
+						<button type="button" class="btn btn-default">Test</button>
 					</div>
 				</div>
 			</div>	
